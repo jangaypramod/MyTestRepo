@@ -1,2 +1,1 @@
-# MyTestRepo
-MyTestRepo
+# MyTestRepo is for demo purpose
